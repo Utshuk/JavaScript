@@ -1,0 +1,27 @@
+body {
+    background:coral;
+}
+
+h1{
+    text-align: center;
+    margin-top: 150px;
+
+}
+
+.watch{
+    border: springgreen 2px solid;
+}
+
+.watch {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: whitesmoke;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+   
+
+
+}
